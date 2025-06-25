@@ -5,6 +5,7 @@ Generate beautiful, custom QR codes with an elegant glassmorphic design. Support
 
 ---
 
+
 ![Screenshot](https://raw.githubusercontent.com/ChrisPirillo/qr-code/main/assets/screenshot.png)
 
 * Try it now: [https://pirillo.com/arcade/qr-code.html](https://pirillo.com/arcade/qr-code.html)
