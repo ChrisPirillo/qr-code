@@ -1,4 +1,3 @@
-
 # Elegant Glassmorphic QR Code Generator - Create Custom QR Codes
 
 Generate beautiful, custom QR codes with an elegant glassmorphic design. Supports text, URLs, Wi-Fi, vCards, events, and more.
